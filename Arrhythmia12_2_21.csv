@@ -1,4 +1,4 @@
-Record no,Age,Sex,Height,Weight,P ,Q,R,S,T,QRS duration,RR interval,P-R interval,Q-T interval,T interval,P interval,QRS,QRST
+Record no,Age,Sex,Height,Weight,P ,Q,R,S,T,QRS_duration,RR_interval,P-R_interval,Q-T_interval,T_interval,P_interval,QRS,QRST
 1,75,0,190,80,64,90,100,100,13,91,245,193,371,174,121,-16,-2
 2,56,1,165,64,-17,88,101,100,37,81,245,174,401,149,39,25,31
 3,54,0,172,95,70,100,76.6,100,34,138,245,163,386,185,102,96,66
