@@ -1,2 +1,0 @@
-Id,Patient_Id,TestDate,Cycle,DayCount,P_Wave,Q_Wave,R_Wave,S_Wave,T_Wave,PR_Interval,QRS_Complex,RR_Interval,QT_Interval,QTc_Interval
-1008,103,47,24-06-2022,1,55,40,101,35,50,0.15,0.05,0.67,0.3,0.37
